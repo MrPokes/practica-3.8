@@ -1,0 +1,18 @@
+
+.titulo {
+    text-align: center;
+    font-size: xx-large; font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(100, 32, 32);
+        }
+
+.texto {
+    font-size: medium;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(189, 30, 30);
+    }
+
+.imagen {
+    text-align: right;
+    }
